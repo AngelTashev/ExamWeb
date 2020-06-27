@@ -1,0 +1,2 @@
+If the user tries to register with an already existing username, the page redirects to the register form again (unique username constraint)
+If the user tries to add an item with an already existing name, the page redirects to the add form(unique name constraint)
